@@ -1,4 +1,4 @@
-https://www.davidhyena.pt
+http://davidhyena.pt
 
 Used this page (i still dont know how to code..):
 
